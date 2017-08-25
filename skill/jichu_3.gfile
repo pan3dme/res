@@ -2,20 +2,20 @@ content/particleresources/textures/knife _light/ef_gldg_03.png
 content/particleresources/textures/knife _light/ef_baiguang_03.jpg
 content/particleresources/textures/halo/ef_flare_01.jpg
 content/particleresources/textures/halo/ef_blue.jpg
-content/particleresources/textures/seamless/wenli_00046.jpg
-content/particleresources/textures/knife _light/knife_004.jpg
-content/particleresources/textures/knife _light/ef_aura_00_1.jpg
-content/particleresources/textures/light_beam/ef_lightbeam_01.jpg
-content/particleresources/textures/pattern/pa_fazhen_05.jpg
 content/particleresources/textures/knife _light/ef_dg_01.png
 content/particleresources/textures/knife _light/ef_gldg_031.jpg
 content/particleresources/textures/knife _light/ef_baiguang_05.jpg
 content/particleresources/textures/knife _light/circle001b.jpg
 content/particleresources/textures/halo/smallglow_00.jpg
-content/particleresources/textures/pattern/pa_fazhen01.jpg
+content/particleresources/textures/seamless/wenli_00046.jpg
+content/particleresources/textures/knife _light/knife_004.jpg
+content/particleresources/textures/knife _light/ef_aura_00_1.jpg
+content/particleresources/textures/light_beam/ef_lightbeam_01.jpg
+content/particleresources/textures/pattern/pa_fazhen_05.jpg
+content/particleresources/textures/halo/ef_flare_05.jpg
 content/particleresources/model/obj/wanjianjue/w_wjj_00.jpg
 content/particleresources/textures/pattern/pa_equake_00.jpg
-content/particleresources/textures/halo/flashslice_2.jpg
+content/particleresources/textures/guiji/lb_xxg_01.jpg
 content/particleresources/textures/sequence_frame/se_sdq_00.jpg
 content/particleresources/textures/halo/ef_flare_08.jpg
 content/particleresources/textures/knife _light/ef_dy002.png
@@ -29,5 +29,4 @@ content/particleresources/textures/mask/ef_mask_00.jpg
 content/particleresources/textures/pattern/ef_hand_1.png
 content/particleresources/textures/light_beam/glow_shockwave_001.jpg
 skill/jichu_3_byte.txt
-skill/jichu_3_base_byte.txt
 skill/jichu_3.gfile
