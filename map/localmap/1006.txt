@@ -1,1 +1,0 @@
-{"scenelist":[{"guid":1,"RoleID":7001,"Rolename":"小竹精","RoleType":1,"x":-230.41132062698833,"y":40.87442045975422,"z":158.49055529210773,"rotationY":0}],"sceneconfig":{"count":0,"day_limit":0,"week_limit":0}}
